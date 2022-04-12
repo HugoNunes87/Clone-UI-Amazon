@@ -67,7 +67,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### ⚖ Direitos
 
-Todos direitos são reservados a Netflix e ao The Movie Database.
+Todos direitos são reservados a Amazon.com 
 
 ### 📝 Licença
 
