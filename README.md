@@ -28,7 +28,7 @@
 
 ### 💻 Projeto
 
-UI Clone do Site da Amazon usando ReactJs,Node e Bootstrap. Esse Projeto foi realizado com fins educativos pelos alunos da escola Senai Suiço-Brasileira (SP).
+UI Clone do Site da Amazon usando ReactJs,Node e Bootstrap. Esse Projeto foi realizado com fins educativos.
 
 ### ✅ Demonstração
 <img src="https://github.com/HugoNunes87/Clone-UI-Amazon/blob/main/public/github/Home.png" />
