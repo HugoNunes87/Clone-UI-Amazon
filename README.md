@@ -75,4 +75,4 @@ Esse projeto está sob a licença MIT.
 
 <hr/>
 
-Feito Por Hugo Nunes, Felipe Sousa, Amanda Ribeiro, Guilherme Morais
+Feito Por Hugo Nunes.
